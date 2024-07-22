@@ -38,7 +38,9 @@ Conducted joint significance tests for variables that were not significant indiv
 **Instrumental Variables (IV):**
 
 Explored the possibility of using IV to address potential endogeneity issues. Specifically, considered the two-sided effect where higher police numbers are placed in areas with increased crime.
-Key Findings
+
+**Key Findings:**
+
 The final model indicated that an increase in the number of police officers per capita actually increased the crime rate per capita.
 This counterintuitive result was consistent across different model specifications and robustness checks.
 
