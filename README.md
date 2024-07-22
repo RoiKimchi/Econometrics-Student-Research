@@ -56,4 +56,4 @@ The analysis underscores the complexity of the relationship between police prese
 
 **Code and Outputs**
 
-The complete Python code and detailed outputs of the analysis are available in the provided HTML file. This includes data cleaning steps, regression models, diagnostic tests, and visualization of results using libraries like seaborn and matplotlib.
+The complete Python code and detailed outputs of the analysis are available in the provided Ipynb/HTML file. This includes data cleaning steps, regression models, diagnostic tests, and visualization of results using libraries like seaborn and matplotlib.
