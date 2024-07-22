@@ -1,12 +1,15 @@
 ### **Economic Model of Crime with Panel Data**
 
 **Project Overview**
+
 In this project, I conducted an econometric analysis to estimate the economic model of crime using panel data. The focus of this study was to investigate how the number of police officers per capita affects the crime rate across different counties over various years. The methodology and insights are inspired by the research of Cornwell and Trumbull (1994).
 
 **Data and Methodology**
+
 The dataset used includes panel data on crime rates, police numbers, and other socioeconomic factors across multiple counties and years. The primary aim was to build a robust regression model to determine the relationship between police presence and crime rates.
 
 **Key Steps and Analysis**
+
 **Data Preparation:**
 
 Loaded and cleaned the dataset using Python libraries such as pandas.
